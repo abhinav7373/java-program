@@ -1,6 +1,6 @@
 import java.util.*;
 public class excer2 {
-    public static void main(String[] args){
+    public static void main(String args[]){
         System.out.println("enter no");
         Scanner sc= new Scanner(System.in);
         int n=sc.nextInt();
