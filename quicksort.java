@@ -28,7 +28,7 @@ public class quicksort {
         int n = arr.length;
         sortElement(arr,0,n-1);
         for(int i = 0;i<n;i++){
-            System.out.print(arr[i] + " ");
-        }
+            System.out.print(arr[i] + "  ");
+        } 
     }
 }
